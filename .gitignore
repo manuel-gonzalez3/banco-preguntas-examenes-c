@@ -1,0 +1,9 @@
+# Compilados
+*.o
+*.obj
+*.exe
+*.out
+banco
+
+# IDE
+.vscode/
