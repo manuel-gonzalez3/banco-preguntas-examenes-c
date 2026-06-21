@@ -65,7 +65,7 @@ void menuListar()
         }
         if(opcion != 0)
         {
-            filtrarPreguntas(opcion);
+            filtrarPreguntas();
         }
     } while (opcion != 0);
     

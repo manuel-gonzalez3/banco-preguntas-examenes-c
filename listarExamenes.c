@@ -53,7 +53,7 @@ void listarExamenes()
     {
         flagArchivoExamVacio = 0; //asigna 0 a la variable global flagArchivoExamVacio, variable global definida en definiciones.h
         crearArregloExamenes(archivo);
-        imprimirExamenes(examenes);
+        imprimirExamenes();
     }
     fclose(archivo);
 }
