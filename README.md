@@ -29,6 +29,13 @@ datosComunes.h definiciones.h
 preguntas.txt examenes.txt   # sample data
 ```
 
+## Demo
+
+**Menu navigation** · **List questions**
+
+![Menus](docs/img/demo-menus.png)
+![Question listing](docs/img/demo-listado.png)
+
 ## Build & run
 
 `main.c` includes the other modules via `#include`, so a single file is compiled:
@@ -76,6 +83,13 @@ crearExamen.c listarExamenes.c
 datosComunes.h definiciones.h
 preguntas.txt examenes.txt   # datos de ejemplo
 ```
+
+## Demo
+
+**Navegación de menús** · **Listado de preguntas**
+
+![Menús](docs/img/demo-menus.png)
+![Listado de preguntas](docs/img/demo-listado.png)
 
 ## Compilar y ejecutar
 
